@@ -6,7 +6,7 @@ A POC on Proving that a user's behavior such as Swap was potentially harmed by a
 
 1. **Extraction of Reserve Values:**
 
-   - We extracted reserve values of specific tokens before and after the suspected transactions.
+   - extraction of reserve values of specific tokens before and after the suspected transactions from Sync function.
 
 2. **Price Calculation:**
 
